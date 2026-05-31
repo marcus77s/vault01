@@ -1,5 +1,6 @@
 ---
 type: summary
+status: current
 created: 2026-05-30
 updated: 2026-05-30
 tags: [llm-wiki, knowledge-base, rag, obsidian, pattern]

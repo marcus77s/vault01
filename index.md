@@ -1,6 +1,7 @@
 ---
 type: index
-updated: 2026-05-30
+updated: 2026-05-31
+status: current
 ---
 
 # Índice do Wiki — vault01
@@ -71,6 +72,12 @@ Arquivos em `Clippings/` e `RSS articles/` aguardando ingestão:
 
 ---
 
+## Journal (`Journal/`)
+
+- [[Journal/instalacoes]] — Registro de instalações no PC local: versão, método, comandos úteis, auto-start
+
+---
+
 ## Governança
 
 - [[Constitution/README]] — Regras e estrutura do ecossistema multi-agente
@@ -88,5 +95,7 @@ Arquivos em `Clippings/` e `RSS articles/` aguardando ingestão:
 | Páginas de conceitos | 9 |
 | Páginas de resumos | 2 |
 | Páginas de síntese | 0 |
+| Decisões | 0 |
 | Projetos | 1 |
-| Última atualização | 2026-05-30 |
+| Instalações registradas | 1 |
+| Última atualização | 2026-05-31 |

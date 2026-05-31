@@ -57,14 +57,18 @@ Conteúdo criado por agente deve ir para `Knowledge/`, `Projects/`, `Journal/`,
 ```yaml
 ---
 type: summary | concept | decision | synthesis | project | journal | pending
+status: current | stub | outdated
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags: []
-sources: []
+sources: []        # caminhos relativos ao vault
 importance: low | medium | high
 agent: nome-do-agente
 ---
 ```
+
+`updated` deve ser mantido atual — atualize sempre que editar qualquer campo ou seção.
+`status: stub` para páginas incompletas; `status: outdated` para conteúdo superado.
 
 ## Operações Canônicas
 

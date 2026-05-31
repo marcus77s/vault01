@@ -25,3 +25,11 @@ Descrição: Agente LLM local para breakdown técnico de roteiros (atores, câme
 Updated [[GEMINI.md]] with rules. Initialized Gemini CLI as agent.
 Páginas criadas: [[GEMINI.md]]
 Páginas atualizadas: [[index.md]]
+
+## [2026-05-31] install | n8n — Plataforma de Automação de Workflows
+Versão: 2.22.5 | Node: v24.16.0 | Gerenciador: pm2 | Porta: 5678
+Problema original: instalado via npx (cache temporário), não abria.
+Solução: `npm install -g n8n` + pm2 para persistência de processo.
+URL: http://localhost:5678
+Criado: Journal/instalacoes.md (seção n8n)
+Páginas atualizadas: [[index.md]]

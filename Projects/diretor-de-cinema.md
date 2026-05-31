@@ -1,5 +1,6 @@
 ---
 type: project
+status: current
 created: 2026-05-30
 updated: 2026-05-30
 tags: [cinema, filmagem, llm-agent, automacao, roteiro]

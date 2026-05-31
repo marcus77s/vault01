@@ -1,5 +1,6 @@
 ---
 type: summary
+status: current
 created: 2026-05-30
 updated: 2026-05-30
 tags: [hermes-agent, tutorial, vps, telegram, openrouter, skills, cron]

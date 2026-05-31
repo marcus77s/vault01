@@ -1,5 +1,6 @@
 ---
 type: concept
+status: current
 created: 2026-05-30
 updated: 2026-05-30
 tags: [rag, retrieval, llm, knowledge-base]

@@ -1,5 +1,6 @@
 ---
 type: concept
+status: current
 created: 2026-05-30
 updated: 2026-05-30
 tags: [hermes-agent, nous-research, open-source, agent, vps]
