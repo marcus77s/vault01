@@ -81,6 +81,7 @@ Arquivos em `Clippings/` e `RSS articles/` aguardando ingestão:
 ## Governança
 
 - [[Constitution/README]] — Regras e estrutura do ecossistema multi-agente
+- [[Constitution/agent-update-tutorial]] — Tutorial para agentes se atualizarem com o schema de 2026-05-31
 - [[CLAUDE.md]] — Schema do LLM Wiki (instruções para Claude)
 - [[GEMINI.md]] — Schema do LLM Wiki (instruções para Gemini CLI)
 

@@ -33,3 +33,8 @@ Solução: `npm install -g n8n` + pm2 para persistência de processo.
 URL: http://localhost:5678
 Criado: Journal/instalacoes.md (seção n8n)
 Páginas atualizadas: [[index.md]]
+
+## [2026-05-31] governance | Tutorial de atualização de schema para agentes
+Criado: Constitution/agent-update-tutorial.md
+Contexto: schema atualizado em 2026-05-31 com status field, novos dirs, Operação 4,
+correção de nomenclatura. Tutorial guia agentes anteriores a fazer a transição.
