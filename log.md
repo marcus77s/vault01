@@ -103,3 +103,13 @@ Contexto: tutorial derivado de sessão prática — autenticação testada ao vi
 Criado: Knowledge/Concepts/FinceptTerminal.md
 Páginas atualizadas: [[Journal/instalacoes]], [[index.md]]
 Páginas criadas: [[Knowledge/Concepts/FinceptTerminal]]
+
+## [2026-06-07] project | RAG Híbrido para Editais das Forças Armadas
+Criado: Projects/licitacoes-forcas-armadas.md
+Descrição: Sistema RAG híbrido (ChromaDB + PNCP API + Anthropic Claude) para gerar editais militares (FAB, Marinha, Exército) que passem em auditorias do TCU.
+Stack: ChromaDB, sentence-transformers multilingual, Anthropic Claude, PNCP API, LightRAG (NVIDIA), graphify
+Corpus: 1800+ TXTs (editais + legislação: Lei 14.133/2021, Lei 8.666/1993)
+Arquitetura: 3 módulos (IndiceLocal, ApiPNCP, GeradorEdital) orquestrados por SistemaHibrido
+Análise graphify: 24 nós, 34 arestas, 4 comunidades, god nodes identificados
+Status: RAG funcional, extração semântica completa pendente (precisa API cloud)
+Páginas atualizadas: [[index.md]]

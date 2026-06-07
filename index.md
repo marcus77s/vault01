@@ -77,6 +77,7 @@ Arquivos em `Clippings/` aguardando ingestão (pasta `RSS articles/` não existe
 ## Projetos (`Projects/`)
 
 - [[Projects/diretor-de-cinema]] — Agente LLM para direção de cinema: breakdown técnico de cenas (atores, câmeras, iluminação, internas/externas)
+- [[Projects/licitacoes-forcas-armadas]] — RAG híbrido (ChromaDB + PNCP + Claude) para gerar editais militares (FAB, Marinha, Exército) que passem em auditorias do TCU
 
 ---
 
@@ -106,5 +107,5 @@ Arquivos em `Clippings/` aguardando ingestão (pasta `RSS articles/` não existe
 || Páginas de resumos | 4 |
 || Páginas de síntese | 1 |
 || Decisões | 0 |
-|| Projetos | 1 |
-|| Última atualização | 2026-06-06 |
+| Projetos | 2 |
+| Última atualização | 2026-06-07 |
