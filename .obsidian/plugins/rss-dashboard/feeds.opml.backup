@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>RSS dashboard feeds</title>
+    <dateCreated>Sun, 07 Jun 2026 10:36:10 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Videos" title="Videos">
+    </outline>
+    <outline text="x.com" title="x.com">
+      <outline text="OpenCode / @opencode" title="OpenCode / @opencode" type="rss" xmlUrl="https://nitter.net/opencode/rss" category="x.com"/>
+      <outline text="Nous Research / @NousResearch" title="Nous Research / @NousResearch" type="rss" xmlUrl="https://nitter.net/NousResearch/rss" category="x.com"/>
+      <outline text="OpenClaw🦞 / @openclaw" title="OpenClaw🦞 / @openclaw" type="rss" xmlUrl="https://nitter.net/openclaw/rss" category="x.com"/>
+      <outline text="Anthropic / @AnthropicAI" title="Anthropic / @AnthropicAI" type="rss" xmlUrl="https://nitter.net/AnthropicAI/rss" category="x.com"/>
+      <outline text="OpenAI Developers / @OpenAIDevs" title="OpenAI Developers / @OpenAIDevs" type="rss" xmlUrl="https://nitter.net/OpenAIDevs/rss" category="x.com"/>
+      <outline text="ClaudeDevs / @ClaudeDevs" title="ClaudeDevs / @ClaudeDevs" type="rss" xmlUrl="https://nitter.net/ClaudeDevs/rss" category="x.com"/>
+      <outline text="Google Gemma / @googlegemma" title="Google Gemma / @googlegemma" type="rss" xmlUrl="https://nitter.net/googlegemma/rss" category="x.com"/>
+      <outline text="NotebookLM / @NotebookLM" title="NotebookLM / @NotebookLM" type="rss" xmlUrl="https://nitter.net/NotebookLM/rss" category="x.com"/>
+    </outline>
+    <outline text="reddit" title="reddit">
+      <outline text="Obsidian" title="Obsidian" type="rss" xmlUrl="https://www.reddit.com/r/ObsidianMD.rss" category="reddit"/>
+      <outline text="openclaw" title="openclaw" type="rss" xmlUrl="https://www.reddit.com/r/openclaw/.rss" category="reddit"/>
+      <outline text="hermesagent" title="hermesagent" type="rss" xmlUrl="https://www.reddit.com/r/hermesagent/.rss" category="reddit"/>
+    </outline>
+    <outline text="github" title="github">
+      <outline text="GitHub Public Timeline Feed" title="GitHub Public Timeline Feed" type="rss" xmlUrl="https://github.com/nousresearch.atom" category="github"/>
+    </outline>
+  </body>
+</opml>

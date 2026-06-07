@@ -1,8 +1,10 @@
 [
   "obsidian-excalidraw-plugin",
   "dataview",
-  "tags-routes",
   "obsidian-git",
   "advanced-canvas",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "tags-routes",
+  "translate",
+  "rss-dashboard"
 ]

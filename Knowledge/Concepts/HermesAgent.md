@@ -2,7 +2,7 @@
 type: concept
 status: current
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-06-02
 tags: [hermes-agent, nous-research, open-source, agent, vps]
 sources: [raw/Hermes Agent Tutorial for Beginners - Step by Step-PT.md]
 importance: high
@@ -54,6 +54,10 @@ hermes doctor         # diagnóstico de problemas
 - Maior segurança
 - Migração: `hermes import openclaw` (comando único)
 
+## Integrações Externas
+
+O Hermes pode se conectar a 900+ serviços externos via [[Composio]] (ou [[Nango]] como alternativa). O agente mesmo gerencia a autenticação OAuth — o usuário apenas autoriza no navegador quando solicitado. Exemplos: Gmail, Outlook, Microsoft Teams, Google Drive, Instagram, Supabase, Notion.
+
 ## Ligações
 
 - [[OpenRouter]] — provedor de modelos de IA
@@ -61,3 +65,5 @@ hermes doctor         # diagnóstico de problemas
 - [[AgentMemory]] — memória persistente cross-sessão
 - [[CronJobs]] — agendamento de tarefas autônomas
 - [[TelegramBot]] — interface principal de mensagens
+- [[Composio]] — integração com 900+ ferramentas externas
+- [[Nango]] — alternativa ao Composio

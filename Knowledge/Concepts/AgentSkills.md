@@ -2,7 +2,7 @@
 type: concept
 status: current
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-06-02
 tags: [agent-skills, skills, workflow, automation]
 sources: [raw/Hermes Agent Tutorial for Beginners - Step by Step-PT.md]
 importance: medium
@@ -42,8 +42,13 @@ e aponte as lacunas."
 
 Skills são a **memória procedural** do agente — como ele sabe fazer tarefas repetitivas sem repensar do zero.
 
+## Skills de Integração
+
+O [[Composio]] e o [[Nango]] são exemplos de skills de integração: instaladas como skills no Hermes, permitem que o agente se conecte a serviços externos (Gmail, Teams, etc.) em linguagem natural.
+
 ## Ligações
 
 - [[HermesAgent]] — sistema que implementa skills
 - [[CronJobs]] — skills podem ser agendadas para execução autônoma
 - [[AgentMemory]] — skills como memória procedural
+- [[Composio]] — skill de integração com 900+ ferramentas externas
