@@ -1,6 +1,6 @@
 {
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1780826895701,
+  "lastRefreshTimestamp": 1780850175384,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
@@ -52,7 +52,7 @@
   "readerFormat": {
     "textAlign": "justify",
     "paragraphWidth": 100,
-    "fontScalePct": 90,
+    "fontScalePct": 80,
     "lineHeightPct": 160,
     "fontFamily": "default",
     "paragraphSpacing": "default"
